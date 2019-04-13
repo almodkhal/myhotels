@@ -20,4 +20,4 @@ Rasmus Lerdorf, creator of PHP, said once,: "Frameworks sucks". Yes this one def
     <li>DataTable Package for Laravel by <a href="https://github.com/yajra/laravel-datatables">yajra</a></li>
 </ul>
 
-Click <a href="http://thasleem.me/demo/myhotels/">here</a> to see the working project hosted at my portfolio http://thasleem.me
+Click <a href="http://thasleem.me/demo/myhotels/" target="_blank">here</a> to see the working project hosted at my portfolio http://thasleem.me

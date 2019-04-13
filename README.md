@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/thasleemmji/myhotels/blob/master/public/images/logo.png"></p>
 
-## About Hotel Booking System Laravel Application
+## About Hotel Booking System (Laravel Application)
 
 This is a web application using a user can signup, login, search rooms, request bookings. Admin and Managers are other user roles who has previlages to add, edit , delete rooms, review bookings, accept, reject or cancel bookings.
 
